@@ -3,7 +3,7 @@ Here you can find the source code that produces the figures in the open access p
 
 In the paper, we prove the existence of a non-trivial solution to the periodic boundary value problem
 $$
-x'' + f(t)x = g(x) \,, \quad x(0) = x(T)\,, x'(0) = x'(T) \,.
+x'' + f(t)x = g(x) \,, \ \ \ \ x(0) = x(T)\,, x'(0) = x'(T) \,.
 $$
 
 Given a continuous function $f(t)$, we create visual interpretations of our conditions on $g(x)$ that guarantee the existence of a solution.
