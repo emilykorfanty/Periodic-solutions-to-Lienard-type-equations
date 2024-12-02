@@ -1,4 +1,4 @@
-Here you can find the source code that produces the figures in the open access paper 
+Here you can find code that produces figures similar to those in the open access paper 
 *[Periodic solutions for a class of conservative Liénard-type equations](https://www.4open-sciences.org/articles/fopen/pdf/2019/01/fopen180047.pdf)*.
 
 In the paper, we prove the existence of a non-trivial solution to the periodic boundary value problem
